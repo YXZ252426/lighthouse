@@ -1,0 +1,3 @@
+[submodule "beaconboot"]
+	path = beaconboot
+	url = https://github.com/YXZ252426/beaconboot.git
