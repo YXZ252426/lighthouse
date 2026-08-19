@@ -1,4 +1,15 @@
 {
+    "rust-analyzer.server.path": "/home/yxz/.rustup/toolchains/1.91.1-x86_64-unknown-linux-gnu/bin/rust-analyzer",
+    "rust-analyzer.linkedProjects": [
+        "./.vscode/rust-analyzer/Cargo.toml"
+    ],
+    "rust-analyzer.cargo.features": [],
+    "rust-analyzer.cargo.noDefaultFeatures": false,
+    "rust-analyzer.cargo.allTargets": false,
+    "rust-analyzer.cargo.targetDir": "../../target",
+    "rust-analyzer.check.allTargets": false,
+    "rust-analyzer.check.workspace": false,
+    "rust-analyzer.cfg.setTest": false,
     "rust-analyzer.cargo.cfgs": [
         "!debug_assertions"
     ]
